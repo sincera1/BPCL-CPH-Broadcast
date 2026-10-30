@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.22.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "bpcl-cph-broadcast",
+    "libraryId": "090867f5-0a60-4fc1-aeb5-68e2be5c4199",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "bpcl-cph-broadcast",
+    "solutionShortDescription": "bpcl-cph-broadcast description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

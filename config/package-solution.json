@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "bpcl-cph-broadcast-client-side-solution",
+    "id": "090867f5-0a60-4fc1-aeb5-68e2be5c4199",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "bpcl-cph-broadcast description"
+      },
+      "longDescription": {
+        "default": "bpcl-cph-broadcast description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "bpcl-cph-broadcast Feature",
+        "description": "The feature that activates elements of the bpcl-cph-broadcast solution.",
+        "id": "eb04d8ca-ebda-4296-ba3f-4da1e40ba127",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/bpcl-cph-broadcast.sppkg"
+  }
+}
